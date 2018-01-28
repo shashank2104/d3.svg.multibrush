@@ -1,4 +1,4 @@
-# d3.svg.multibrush
+# d3.svg.multibrush v4
 d3 SVG Multibrush v4
 
 Using the v3 version of this library from here and converting it to v4:
